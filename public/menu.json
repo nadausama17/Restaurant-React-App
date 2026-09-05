@@ -1,0 +1,127 @@
+{
+  "restaurantName": "The Warm Hearth Bistro",
+  "categories": [
+    "All",
+    "Starters",
+    "Mains",
+    "Desserts",
+    "Beverages"
+  ],
+  "menu": [
+    {
+      "id": "m1",
+      "name": "Truffle Fries",
+      "description": "Crispy golden hand-cut fries tossed in white truffle oil, grated parmesan cheese, and fresh rosemary. Served with garlic aioli.",
+      "price": 9.50,
+      "category": "Starters",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=500&auto=format&fit=crop&q=60",
+      "rating": 4.8,
+      "tags": [
+        "Vegetarian"
+      ],
+      "isPopular": true,
+      "inStock": true
+    },
+    {
+      "id": "m2",
+      "name": "Heirloom Tomato Bruschetta",
+      "description": "Toasted artisan sourdough topped with marinated heirloom tomatoes, garlic, fresh basil, and a drizzle of aged balsamic glaze.",
+      "price": 11.00,
+      "category": "Starters",
+      "image": "https://images.unsplash.com/photo-1541532713592-79a0317b6b77?w=500&auto=format&fit=crop&q=60",
+      "rating": 4.5,
+      "tags": [
+        "Vegan",
+        "Vegetarian"
+      ],
+      "isPopular": false,
+      "inStock": true
+    },
+    {
+      "id": "m3",
+      "name": "Pan-Seared Atlantic Salmon",
+      "description": "Crispy skin-on salmon fillet served over a bed of creamy lemon-herb risotto and roasted asparagus, topped with dill butter.",
+      "price": 26.00,
+      "category": "Mains",
+      "image": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?w=500&auto=format&fit=crop&q=60",
+      "rating": 4.9,
+      "tags": [
+        "Gluten-Free"
+      ],
+      "isPopular": true,
+      "inStock": true
+    },
+    {
+      "id": "m4",
+      "name": "Wild Mushroom Rigatoni",
+      "description": "Rigatoni pasta tossed with a rich, velvety wild mushroom cream sauce, caramelized onions, and fresh thyme.",
+      "price": 19.50,
+      "category": "Mains",
+      "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=500&auto=format&fit=crop&q=60",
+      "rating": 4.6,
+      "tags": [
+        "Vegetarian"
+      ],
+      "isPopular": false,
+      "inStock": true
+    },
+    {
+      "id": "m5",
+      "name": "Smoked Gorgonzola Burger",
+      "description": "Prime beef patty, melted gorgonzola cheese, crispy bacon, arugula, and fig jam on a toasted brioche bun. Served with side salad.",
+      "price": 18.00,
+      "category": "Mains",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60",
+      "rating": 4.7,
+      "tags": [],
+      "isPopular": true,
+      "inStock": true
+    },
+    {
+      "id": "m6",
+      "name": "Molten Chocolate Lava Cake",
+      "description": "Decadent dark chocolate cake with a gooey, molten center. Served warm with a scoop of Madagascar vanilla bean ice cream.",
+      "price": 8.50,
+      "category": "Desserts",
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500&auto=format&fit=crop&q=60",
+      "rating": 4.9,
+      "tags": [
+        "Vegetarian"
+      ],
+      "isPopular": true,
+      "inStock": true
+    },
+    {
+      "id": "m7",
+      "name": "Classic Matcha Latte",
+      "description": "Premium stone-ground Japanese matcha whisked with steamed oat milk and a touch of organic agave nectar.",
+      "price": 5.50,
+      "category": "Beverages",
+      "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=500&auto=format&fit=crop&q=60",
+      "rating": 4.4,
+      "tags": [
+        "Vegan",
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "isPopular": false,
+      "inStock": true
+    },
+    {
+      "id": "m8",
+      "name": "Hibiscus Rose Iced Tea",
+      "description": "Cold-brewed herbal hibiscus tea infused with organic rosewater, fresh mint, and a squeeze of fresh lemon juice.",
+      "price": 4.75,
+      "category": "Beverages",
+      "image": "https://images.unsplash.com/photo-1497534446932-c925b458314e?w=500&auto=format&fit=crop&q=60",
+      "rating": 4.3,
+      "tags": [
+        "Vegan",
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "isPopular": false,
+      "inStock": false
+    }
+  ]
+}

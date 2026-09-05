@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bistro-tomato: #C83E2D;
+  --color-bistro-terracotta: #D9825B;
+  --color-bistro-cream: #F9F6F0;
+  --color-bistro-espresso: #2C1E1A;
+}
+
+body{
+  margin: 0;
+  padding:0;
+  width:100%;
+}
